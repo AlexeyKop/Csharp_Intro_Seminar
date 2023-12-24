@@ -1,0 +1,14 @@
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\bin\Debug\net8.0\Sem_7_Recursion.exe
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\bin\Debug\net8.0\Sem_7_Recursion.deps.json
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\bin\Debug\net8.0\Sem_7_Recursion.runtimeconfig.json
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\bin\Debug\net8.0\Sem_7_Recursion.dll
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\bin\Debug\net8.0\Sem_7_Recursion.pdb
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\obj\Debug\net8.0\Sem_7_Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\obj\Debug\net8.0\Sem_7_Recursion.AssemblyInfoInputs.cache
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\obj\Debug\net8.0\Sem_7_Recursion.AssemblyInfo.cs
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\obj\Debug\net8.0\Sem_7_Recursion.csproj.CoreCompileInputs.cache
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\obj\Debug\net8.0\Sem_7_Recursion.dll
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\obj\Debug\net8.0\refint\Sem_7_Recursion.dll
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\obj\Debug\net8.0\Sem_7_Recursion.pdb
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\obj\Debug\net8.0\Sem_7_Recursion.genruntimeconfig.cache
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_Csharp_Sem\Sem_7_Recursion\obj\Debug\net8.0\ref\Sem_7_Recursion.dll

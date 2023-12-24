@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sem_1_DenMak/1.0.0": {
+        "runtime": {
+          "Sem_1_DenMak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sem_1_DenMak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

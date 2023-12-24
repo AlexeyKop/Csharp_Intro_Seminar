@@ -1,0 +1,14 @@
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\bin\Debug\net8.0\Sem_1_DenMak.exe
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\bin\Debug\net8.0\Sem_1_DenMak.deps.json
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\bin\Debug\net8.0\Sem_1_DenMak.runtimeconfig.json
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\bin\Debug\net8.0\Sem_1_DenMak.dll
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\bin\Debug\net8.0\Sem_1_DenMak.pdb
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\obj\Debug\net8.0\Sem_1_DenMak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\obj\Debug\net8.0\Sem_1_DenMak.AssemblyInfoInputs.cache
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\obj\Debug\net8.0\Sem_1_DenMak.AssemblyInfo.cs
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\obj\Debug\net8.0\Sem_1_DenMak.csproj.CoreCompileInputs.cache
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\obj\Debug\net8.0\Sem_1_DenMak.dll
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\obj\Debug\net8.0\refint\Sem_1_DenMak.dll
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\obj\Debug\net8.0\Sem_1_DenMak.pdb
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\obj\Debug\net8.0\Sem_1_DenMak.genruntimeconfig.cache
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_C_sh_Seminar\Sem_1_DenMak\obj\Debug\net8.0\ref\Sem_1_DenMak.dll
