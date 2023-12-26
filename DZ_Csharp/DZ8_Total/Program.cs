@@ -22,3 +22,30 @@ string[] GenerateRandomArray(int minLength, int maxLength)
 
     return array;
 }
+
+// Метод для фильтрации массива строк
+string[] FilterArray(string[] originalArray)
+{
+    int count = 0;
+
+    // Подсчет количества строк, удовлетворяющих условию
+    for (int i = 0; i < originalArray.Length; i++)
+    {
+        if (originalArray[i].Length <= 3)  count++;            
+    }
+
+    // Создание нового массива с отфильтрованными строками
+    string[] newArray = new string[count];
+    int index = 0;
+
+    // Заполнение нового массива отфильтрованными строками
+    for (int i = 0; i < originalArray.Length; i++)
+    {
+        if (originalArray[i].Length <= 3)
+        {
+            newArray[index] = originalArray[i];
+            index++;
+        }
+    }
+    return newArray;
+}
