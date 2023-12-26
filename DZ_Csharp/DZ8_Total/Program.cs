@@ -49,3 +49,17 @@ string[] FilterArray(string[] originalArray)
     }
     return newArray;
 }
+
+// Генерация случайного массива строк
+string[] originalArray = GenerateRandomArray(5, 20);
+
+Console.Clear();
+Console.WriteLine("Исходный массив:");
+Console.WriteLine($"Starting array: [{string.Join(", ", originalArray)}]");
+
+// Фильтрация массива
+string[] newArray = FilterArray(originalArray);
+
+Console.WriteLine("\nНовый массив (строки <= 3 символов):");
+Console.WriteLine($"Filter array: [{string.Join(", ", newArray)}]");
+Console.WriteLine();
